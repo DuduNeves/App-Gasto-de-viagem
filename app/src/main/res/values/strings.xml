@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gasto de viagem</string>
+    <string name="precoPorLitro">Preço por litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="kmsPorLitro">Kms por litro</string>
+    <string name="seuGastoTotalSeraDe">SEU GASTO TOTAL SERÁ DE:</string>
+    <string name="valor">R$ 0</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="preenchaTodosCampos">Preencha todos os campos!</string>
+    <string name="informeValoresValidos">Por favor informe valores validos</string>
+    <string name="notZero">Os campos não podem ser preenchidos com o número 0</string>
+</resources>
